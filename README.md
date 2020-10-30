@@ -19,4 +19,6 @@ Skills: SQL / PHP / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlQaqaa&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlQaqaa&repo=github-readme-stats)](https://github.com/AlQaqaa/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/AlQaqaa) 
