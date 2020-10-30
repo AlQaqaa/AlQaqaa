@@ -15,11 +15,7 @@ Skills: SQL / PHP / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript
   <li>More about me on <a href='https://www.linkedin.com/in/القعقاع-بن-غزي-3ab25979/'>LinkedIn</a></li>
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlQaqaa&layout=compact)](https://github.com/AlQaqaa/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlQaqaa&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlQaqaa)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlQaqaa&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/AlQaqaa)  
+![Profile views](https://gpvc.arturio.dev/AlQaqaa) 
