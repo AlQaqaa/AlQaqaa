@@ -2,7 +2,7 @@
 #### Full Stack web developer
 I was born in 1990, a programmer and a specialist in web development, I have many skills in web development, I enjoy working in this specialty and I have experience in for 5 years.
 
-Skills: SQL / PHP / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript / Bootstrap
+Skills: SQL / C# / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript / Bootstrap
 
 - 🌱 I’m currently learning ReacJs 
 - 💬 Ask me about SQL, ASP.NET 
