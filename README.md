@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm AlQaqaa Benghuzi
-#### Full Stack web developer
-I was born in 1990, a programmer and a specialist in web development, I have many skills in web development, I enjoy working in this specialty and I have experience in for 5 years.
+#### Software Engineer
+I enjoy working in this specialty and I have experience in for 5 years.
 
 Skills: SQL / C# / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript / Bootstrap
 
 - 🌱 I’m currently learning ReacJs 
 - 💬 Ask me about SQL, ASP.NET 
 - 📫 How to reach me: che.ben.arg@gmail.com 
+- ☎️ Contact with me: +218926444115
 
 <h2>Find me around the web:</h2>
 <ul>
