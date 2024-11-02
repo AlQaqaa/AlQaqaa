@@ -1,4 +1,4 @@
-### Hi there 👋, I'm AlQaqaa Benghuzi
+### Hi there 👋, I'm AlQaqaa Benghezi
 #### Software Engineer
 I enjoy working in this specialty and I have experience in for 5 years.
 
@@ -6,7 +6,7 @@ Skills: SQL / C# / VB.NET / ASP.NET / HTML5 / CSS / JQuery / JavaScript / Bootst
 
 - 🌱 I’m currently learning ReacJs 
 - 💬 Ask me about SQL, ASP.NET 
-- 📫 How to reach me: che.ben.arg@gmail.com 
+- 📫 How to reach me: benghezi@alqaqaa.com.ly 
 - ☎️ Contact with me: +218926444115
 
 <h2>Find me around the web:</h2>
